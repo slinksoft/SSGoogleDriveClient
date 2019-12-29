@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleDriveClient", "GoogleDriveClient\GoogleDriveClient.csproj", "{D073FC84-A3AB-4C7D-A916-833397279300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D073FC84-A3AB-4C7D-A916-833397279300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D073FC84-A3AB-4C7D-A916-833397279300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D073FC84-A3AB-4C7D-A916-833397279300}.Debug|x86.ActiveCfg = Release|x86
+		{D073FC84-A3AB-4C7D-A916-833397279300}.Debug|x86.Build.0 = Release|x86
+		{D073FC84-A3AB-4C7D-A916-833397279300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D073FC84-A3AB-4C7D-A916-833397279300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D073FC84-A3AB-4C7D-A916-833397279300}.Release|x86.ActiveCfg = Release|x86
+		{D073FC84-A3AB-4C7D-A916-833397279300}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD62CD7D-C950-4E44-B2FB-D71FBCBAF2C8}
+	EndGlobalSection
+EndGlobal
