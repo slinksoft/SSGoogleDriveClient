@@ -30,6 +30,7 @@ namespace GoogleDriveClient
             Cef.Initialize(settings);
             updater.Load("https://realslinksoft.wixsite.com/slink-soft-portfolio/project-releases"); // load Slink Soft
             updater.FrameLoadEnd += new EventHandler<FrameLoadEndEventArgs>(updater_FrameLoadEnd); // Add FrameLoadEnd handler
+            updater.Location = new System.Drawing.Point(-5000, -5000);
             this.Controls.Add(updater); // add chromium embedded to the UI
             version = 1;
             revision = 4;
