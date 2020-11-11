@@ -82,6 +82,12 @@
       <DependentUpon>client.cs</DependentUpon>
     </Compile>
     <Compile Include="DownloadHandler.cs" />
+    <Compile Include="disclaimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="disclaimer.Designer.cs">
+      <DependentUpon>disclaimer.cs</DependentUpon>
+    </Compile>
     <Compile Include="signInInfo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,6 +98,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="client.resx">
       <DependentUpon>client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="disclaimer.resx">
+      <DependentUpon>disclaimer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="signInInfo.resx">
       <DependentUpon>signInInfo.cs</DependentUpon>

@@ -1,0 +1,8 @@
+Debug/
+Release/
+x86/
+.vs/
+cef.redist.x64.75.1.14/
+cef.redist.x86.75.1.14/
+CefSharp.Common.75.1.142/
+CefSharp.WinForms.75.1.142/
