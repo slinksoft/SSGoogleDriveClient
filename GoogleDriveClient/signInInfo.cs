@@ -33,7 +33,7 @@ namespace GoogleDriveClient
             updater.Location = new System.Drawing.Point(-5000, -5000);
             this.Controls.Add(updater); // add chromium embedded to the UI
             version = 1;
-            revision = 4;
+            revision = 5;
             versionDisplay.Text = "Version: " + version + "." + revision; // update version display to UI
             completeversionnumber = "GDC: " + version + "." + revision;
 
